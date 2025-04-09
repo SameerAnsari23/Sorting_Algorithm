@@ -23,7 +23,7 @@
 
 ### Run in your local
 
-- ```git clone https://github.com/Sachinjha21/Sorting-Visualiser```
+- ```git clone https://github.com/SameerAnsari23/Sorting_Algorithm.git```
 - ```npm install``` (after navigating inside the directory)
 - ```npm run dev```
 
